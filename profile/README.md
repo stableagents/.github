@@ -1,6 +1,12 @@
-## Welcome to Stable Agents
+# Welcome to Stable Agents
 
 We are a dedicated to creating and benchmarking(eval) AI agents for production use cases. 
+
+
+## Roadmap
+
+- [ ] Update python package (https://pypi.org/project/StableAgents/)
+- [ ] Add a flag for automatic token count (--count.t)
 
 
 ## Join our Discord
