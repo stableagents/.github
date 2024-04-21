@@ -7,6 +7,7 @@ Building the GPS system for LLM's (coming soon-ish).
 
 - [ ] Update python package (https://pypi.org/project/StableAgents/)
 - [ ] Add a flag for automatic token count (--count.t)
+- [ ] Add a notification system to text or call an agent
 
 
 ## Join our Discord
