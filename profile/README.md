@@ -1,6 +1,6 @@
 # Welcome to Stable Agents
 
-We are a dedicated to creating and benchmarking(eval) AI agents for production use cases. 
+Building the GPS system for LLM's (coming soon-ish). 
 
 
 ## Roadmap
