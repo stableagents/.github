@@ -8,6 +8,7 @@ Building the GPS system for LLM's (coming soon-ish).
 - [ ] Update python package (https://pypi.org/project/StableAgents/)
 - [ ] Add a flag for automatic token count (--count.t)
 - [ ] Add a notification system to text or call an agent
+- [ ] Deploy Stable Experts a MoE that is capable of working along side complex software without API access
 
 
 ## Join our Discord
