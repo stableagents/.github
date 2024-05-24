@@ -9,6 +9,7 @@ Building the GPS system for LLM's (coming soon-ish).
 - [ ] Add a flag for automatic token count (--count.t)
 - [ ] Add a notification system to text or call an agent
 - [ ] Deploy Stable Experts a MoE that is capable of working along side complex software without API access
+- [ ] an AI agent for trading outcomes on https://kalshi.com
 
 
 ## Join our Discord
