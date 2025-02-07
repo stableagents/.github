@@ -11,13 +11,6 @@ Building the GPS system for LLM's (coming soon-ish).
 - [ ] Deploy Stable Experts a MoE that is capable of working along side complex software without API access
 - [ ] an AI agent for trading outcomes on https://kalshi.com
 
-
-## Join our Discord
-
-https://discord.gg/prx2AtvCxF
-
-
-
 <!--
 
 **Here are some ideas to get you started:**
